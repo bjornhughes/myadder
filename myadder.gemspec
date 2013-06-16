@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["bjorn.hughes@gmail.com"]
   spec.description   = 'Adds 2 numbers'
   spec.summary       = spec.description
-  spec.homepage      = 'https://github.com/bjornhughes/adder'
+  spec.homepage      = 'https://github.com/bjornhughes/myadder'
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
